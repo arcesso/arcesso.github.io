@@ -120,6 +120,12 @@ img {
   color: $gray;
 }
 
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
