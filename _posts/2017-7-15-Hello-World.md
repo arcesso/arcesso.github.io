@@ -8,5 +8,4 @@ I made a blog, or, you know, stole one and then edited all the other content awa
 
 ![_config.yml]({{ site.baseurl }}/images/mine.jpg){: .center-image }
 
-I am a systems administrator and don't have much experience with web development so this should be fun and a good learning experience and will hopefully help me understand web stuff a little better.  I am making this to document some of the things I do so that I can remember and to archive and talk about things that I find interesting.   
-
+I currently work nights in Washington state as a systems administrator with a focus on automation, but have always had a strong leaning toward infosec and will likely blog about that often.  I don't have much experience with web development so this should be a fun learning experience.  While I generally don't have much to say, the purpose of this blog is to help me document some of the things I do so that I can offload my memory to a more perminent location, which can hopefully help others, and to start discussions about things that I find interesting.  Say 'hi' to me on Twitter or just check out some of the things I post.  A link can be found below.
